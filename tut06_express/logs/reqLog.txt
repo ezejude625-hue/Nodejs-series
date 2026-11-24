@@ -1,0 +1,6 @@
+157029da-0d29-43c3-b573-4ffe10ec392c	/	GET
+76b475b5-39d3-415b-ad35-e9225baf3dfa	/css/style.css	GET
+97429543-f391-42c4-a46b-e1b50c3b1fa8	/favicon.ico	GET
+b51ed161-22b9-4f54-a55e-766f4d9623da	/	GET
+a7f7af70-1c4c-4b33-b73f-5471cc6d00e6	/	GET
+f2b348e3-521a-4fc8-8d32-0b8040527e90	/css/style.css	GET
